@@ -1,3 +1,0 @@
-# SigBypass
-
-尝试通过替换pm的方式去hookapp的签名信息，来阻止app内部正版校验。
